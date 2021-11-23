@@ -32,3 +32,5 @@ Pacote Office | intermediario
 
 ----------------------------------------
 **REPOSITÓRIOS**
+
+* [Pizzaria](https://github.com/felipe-apio-Souza/portifolioSenac/tree/main/PizzariaMVC)
